@@ -29,6 +29,7 @@
 - [x] Building an Interactive Website,
 - [x] Introduction to Business
 - [x] Learning Angular - Pt.1, Code School
+- [x] Startup Engineering, Coursera
 - [ ] HTML 5 Game Development, Udacity - **In Progress**
 - [ ] Software Debugging, Udacity - **In Progress**
 - [ ] Software Testing, Udacity - **In Progress**
