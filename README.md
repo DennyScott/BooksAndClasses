@@ -7,7 +7,7 @@
 - [x] Game Design with Unity
 - [x] Discover Meteor
 - [x] Discover Phaser
-- [ ] Becoming a Better Programmer - **In Progress**
+- [x] Becoming a Better Programmer 
 - [ ] Javascript: The Good Parts
 - [ ] The Principles of Object-Oriented Javascript
 - [ ] Game Engine Architecture
