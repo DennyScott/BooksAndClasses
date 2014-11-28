@@ -12,7 +12,8 @@
 - [ ] The Principles of Object-Oriented Javascript
 - [ ] Game Engine Architecture
 - [ ] Learning C++ through Game Programming - **In Progress**
-
+- [ ] Game Programming Patterns
+- [ ] Learning LibGDX Game Development - **In Progress**
  
  ### Classes
 - [x] Web Development, Udacity
