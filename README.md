@@ -14,7 +14,9 @@
 - [ ] Learning C++ through Game Programming - **In Progress**
 - [ ] Game Programming Patterns
 - [ ] Learning LibGDX Game Development - **In Progress**
- 
+- [ ] Learning LibGDX Game Development v2
+- [ ] LibGDX Cookbook
+
  ### Classes
 - [x] Web Development, Udacity
 - [x] Intro To Computer Science
