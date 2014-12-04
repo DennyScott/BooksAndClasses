@@ -16,6 +16,7 @@
 - [ ] Learning LibGDX Game Development - **In Progress**
 - [ ] Learning LibGDX Game Development v2
 - [ ] LibGDX Cookbook
+- [ ] Mastering Unity 2D Game Development - **In Progress**
 
  ### Classes
 - [x] Web Development, Udacity
@@ -36,6 +37,9 @@
 - [ ] HTML 5 Game Development, Udacity - **In Progress**
 - [ ] Software Debugging, Udacity - **In Progress**
 - [ ] Software Testing, Udacity - **In Progress**
+- [x] Intro to C# Scripting, DigitalTutors
+- [x] Performance Optimization in Unity, Digital Tutors
+- [x] Unity Basics, Digital Tutors
 - [ ] Graphics with WebGl, Udacity
 - [ ] Javascript OO, Udacity
 - [ ] Mobile Web Dev, Udacity
