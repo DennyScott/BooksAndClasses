@@ -9,7 +9,7 @@
 - [x] Discover Phaser
 - [x] Becoming a Better Programmer 
 - [ ] Javascript: The Good Parts
-- [ ] The Principles of Object-Oriented Javascript
+- [x] The Principles of Object-Oriented Javascript
 - [ ] Game Engine Architecture
 - [ ] Learning C++ through Game Programming - **In Progress**
 - [ ] Game Programming Patterns
