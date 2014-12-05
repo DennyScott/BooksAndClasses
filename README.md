@@ -53,8 +53,6 @@
 ### Tracks/Certificates
 - [x] PHP Track, Treehouse
 - [ ] Game Programming and Design, GameInstitute - **In Progress**
-- [ ] Nanodegree in Front End Dev, Udacity
-- [ ] Nanodegree in Full Stack Dev, Udacity
 - [ ] Front End Web Dev on Treehouse
 
 ## Open Source Projects
