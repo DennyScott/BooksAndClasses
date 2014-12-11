@@ -60,6 +60,7 @@
 - [x] PHP Track, Treehouse
 - [ ] Game Programming and Design, GameInstitute - **In Progress**
 - [ ] Android Track, Treehouse
+
 ## Open Source Projects
 - [ ] Mozilla
 - [ ] Phaser
