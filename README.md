@@ -65,7 +65,16 @@
 - [ ] Game Programming and Design, GameInstitute - **In Progress**
 - [ ] Android Track, Treehouse
 
+## Personal Projects and Goals
+- [x] Zephyr
+- [ ] 12 in 12
+- [x] Complete first Mobile Game (Debate!)
+- [ ] Release First Private App
+- [ ] Release First App with CT
+- [ ] Release Ultimate Tic Tac Toe App
+- [ ] Release Planning Poker App
+- [ ] Create and Release Commerical Game
+
 ## Open Source Projects
 - [ ] Mozilla
 - [ ] Phaser
-- [ ] Zephyr
