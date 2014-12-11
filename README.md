@@ -69,6 +69,7 @@
 - [x] Zephyr
 - [ ] 12 in 12
 - [x] Complete first Mobile Game (Debate!)
+- [ ] Port Debate to LibGDX (or Android)
 - [ ] Release First Private App
 - [ ] Release First App with CT
 - [ ] Release Ultimate Tic Tac Toe App
