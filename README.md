@@ -34,6 +34,12 @@
 - [x] Introduction to Business
 - [x] Learning Angular - Pt.1, Code School
 - [x] Startup Engineering, Coursera
+- [x] Java Basics - Treehouse
+- [x] Build a simple Android App - Treehouse
+- [x] Publish an Android App - Treehouse
+- [x] Build an Interactive Story App - Treehouse
+- [x] Android Tools - Treehouse
+- [ ] Build a Blog Reader Android App - Treehouse **In Progress**
 - [ ] HTML 5 Game Development, Udacity - **In Progress**
 - [ ] Software Debugging, Udacity - **In Progress**
 - [ ] Software Testing, Udacity - **In Progress**
@@ -53,8 +59,7 @@
 ### Tracks/Certificates
 - [x] PHP Track, Treehouse
 - [ ] Game Programming and Design, GameInstitute - **In Progress**
-- [ ] Front End Web Dev on Treehouse
-
+- [ ] Android Track, Treehouse
 ## Open Source Projects
 - [ ] Mozilla
 - [ ] Phaser
