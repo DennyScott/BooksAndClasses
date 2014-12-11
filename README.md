@@ -46,6 +46,10 @@
 - [x] Intro to C# Scripting, DigitalTutors
 - [x] Performance Optimization in Unity, Digital Tutors
 - [x] Unity Basics, Digital Tutors
+- [x] Famo.us University Pt1, Famo.us
+- [x] Famo.us University Pt2, Famo.us
+- [x] Famo.us Layouts, Famo.us
+- [x] Famo.us/Angular, Famo.us
 - [ ] Graphics with WebGl, Udacity
 - [ ] Javascript OO, Udacity
 - [ ] Mobile Web Dev, Udacity
