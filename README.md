@@ -67,11 +67,11 @@
 
 ## Personal Projects and Goals
 - [x] Zephyr
-- [ ] 12 in 12
+- [x] Reddit Widget
 - [x] Complete first Mobile Game (Debate!)
-- [ ] Port Debate to LibGDX (or Android)
-- [ ] Release First Private App
-- [ ] Release First App with CT
+- [ ] Port Debate to LibGDX **In Progress**
+- [ ] UT3
+- [ ] Planning Poker
 - [ ] Release Ultimate Tic Tac Toe App
 - [ ] Release Planning Poker App
 - [ ] Create and Release Commerical Game
