@@ -64,12 +64,14 @@
 - [x] PHP Track, Treehouse
 - [ ] Game Programming and Design, GameInstitute - **In Progress**
 - [ ] Android Track, Treehouse
+- [x] Introduction to C#, Digital Tutors
 
 ## Personal Projects and Goals
 - [x] Zephyr
 - [x] Reddit Widget
 - [x] Complete first Mobile Game (Debate!)
-- [ ] Port Debate to LibGDX **In Progress**
+- [x] Port Debate to LibGDX/Unity
+- [ ] Far East
 - [ ] UT3
 - [ ] Planning Poker
 - [ ] Release Ultimate Tic Tac Toe App
