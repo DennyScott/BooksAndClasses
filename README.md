@@ -58,6 +58,7 @@
 - [ ] Website Performance Optimization, Udacity
 - [ ] Software Development Life Cycle, Udacity
 - [ ] Developing Android Apps, Udacity
+- [ ] Intro to HTML and CSS, Udacity
 
 
 ### Tracks/Certificates
@@ -65,11 +66,13 @@
 - [ ] Game Programming and Design, GameInstitute - **In Progress**
 - [ ] Android Track, Treehouse
 - [x] Introduction to C#, Digital Tutors
+- [] Front-End Web Dev, Nanodegree, Udacity
 
 ## Personal Projects and Goals
 - [x] Zephyr
 - [x] Reddit Widget
 - [x] Complete first Mobile Game (Debate!)
+- [ ] Mockup to Website, Udacity
 - [x] Port Debate to LibGDX/Unity
 - [ ] Far East
 - [ ] UT3
